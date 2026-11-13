@@ -1,0 +1,12 @@
+# Segredos e credenciais (nunca versionar)
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
